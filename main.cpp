@@ -17,18 +17,174 @@ TEST_CASE( "Factorials are computed", "[factorial]" ) {
 
 TEST_CASE("Other test")
 {
-    usleep(20 * 1000 * 1000);
+    usleep(2 * 1000 * 1000);
     REQUIRE(1 == 1);
 }
 
 TEST_CASE("Other test 2")
 {
-    usleep(20 * 1000 * 1000);
+    usleep(2 * 1000 * 1000);
     REQUIRE(1 == 1);
 }
 
 TEST_CASE("Other test 3")
 {
-    usleep(20 * 1000 * 1000);
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 4")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 5")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 6")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 7")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 8")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 9")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 10")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 11")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 12")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 13")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 14")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 15")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 16")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 17")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 18")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 19")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 20")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 21")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 22")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 23")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 24")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 25")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 26")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 27")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 28")
+{
+    usleep(2 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 29")
+{
+    usleep(2 * 1000 * 1000);
     REQUIRE(1 == 1);
 }
