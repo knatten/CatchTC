@@ -10,7 +10,7 @@ TEST_CASE( "Factorials are computed", "[factorial]" ) {
     SECTION("first") {
         //REQUIRE( X() == Y());
         SECTION("second") {
-            REQUIRE( 10 == 20);
+            REQUIRE( 10 == 10);
         }
     }
 }
