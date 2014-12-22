@@ -1,5 +1,7 @@
 #define CATCH_CONFIG_MAIN  // This tells Catch to provide a main() - only do this in one cpp file
 #include "catch.hpp"
+#include <unistd.h>
+
 
 int X() { return 1; }
 int Y() { return 2; }
@@ -11,4 +13,10 @@ TEST_CASE( "Factorials are computed", "[factorial]" ) {
             REQUIRE( 10 == 20);
         }
     }
+}
+
+TEST_CASE("Other test")
+{
+    usleep(20 * 1000 * 1000);
+    REQUIRE(1 == 1);
 }
