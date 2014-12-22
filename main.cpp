@@ -20,3 +20,15 @@ TEST_CASE("Other test")
     usleep(20 * 1000 * 1000);
     REQUIRE(1 == 1);
 }
+
+TEST_CASE("Other test 2")
+{
+    usleep(20 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
+
+TEST_CASE("Other test 3")
+{
+    usleep(20 * 1000 * 1000);
+    REQUIRE(1 == 1);
+}
